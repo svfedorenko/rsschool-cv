@@ -25,12 +25,13 @@
 
 # Code Examples
 
-''' 
+```
 function mbi(weight,height) {
    const mbi = weight/(height*height);
    return mbi <=15 ? 'underweight': mbi <= 25 ? 'normal': mbi <= 30 ? 'overweight': 'obese';
 }
-'''
+
+```
 
 
 
