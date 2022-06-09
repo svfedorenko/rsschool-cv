@@ -9,5 +9,13 @@
 *E-mail:fe-dorenko@mail.ru 
 *GitHub:svfedorenko
 
+# About Me
+
+## My strengths:
+*quick leaner
+*diligence
+*team plaing
+*full immersion in the essence of the problems
+
 
 
