@@ -1,1 +1,1 @@
-http://svfedorenko.github.io/rsschool-cv/cv/
+http://svfedorenko.github.io/rsschool-cv/
