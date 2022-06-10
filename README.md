@@ -1,1 +1,1 @@
-http://svfedorenko.github.io/rsschool-cv/cvgiadd 
+http://svfedorenko.github.io/rsschool-cv/cv/
